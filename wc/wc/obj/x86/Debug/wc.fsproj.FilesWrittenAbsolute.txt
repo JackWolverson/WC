@@ -1,0 +1,5 @@
+/Users/student/Projects/wc/wc/obj/x86/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.fs
+/Users/student/Projects/wc/wc/bin/Debug/wc.exe.mdb
+/Users/student/Projects/wc/wc/bin/Debug/wc.exe
+/Users/student/Projects/wc/wc/obj/x86/Debug/wc.exe
+/Users/student/Projects/wc/wc/obj/x86/Debug/wc.exe.mdb
